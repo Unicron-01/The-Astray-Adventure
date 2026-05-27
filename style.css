@@ -15,16 +15,14 @@ body{
 .intro-screen{
     width:100%;
     height:100vh;
+
     position:relative;
 
-    background-image:
-    url("14961D51-A5A3-45C8-A449-018F0F51F62B.png");
+    background-image:url("https://raw.githubusercontent.com/Unicron-01/The-Astray-Adventure/main/14961D51-A5A3-45C8-A449-018F0F51F62B.png");
 
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
-
-    opacity:0;
 
     animation:fadeIn 5s ease forwards;
 }
