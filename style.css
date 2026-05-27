@@ -33,30 +33,7 @@ body{
 
 /* CENTER LIGHT */
 
-.light{
-    position:absolute;
 
-    top:50%;
-    left:50%;
-
-    transform:
-    translate(-50%,-50%);
-
-    width:450px;
-    height:450px;
-
-    background:
-    radial-gradient(
-        circle,
-        rgba(255,255,255,0.15),
-        transparent 70%
-    );
-
-    filter:blur(20px);
-
-    animation:
-    pulse 4s infinite;
-}
 
 /* CONTENT */
 
