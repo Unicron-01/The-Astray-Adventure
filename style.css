@@ -29,15 +29,7 @@ body{
 
 /* DARK OVERLAY */
 
-.overlay{
-    position:absolute;
-    inset:0;
 
-    background:rgba(0,0,0,0.85);
-
-    animation:
-    overlayFade 6s ease forwards;
-}
 
 /* CENTER LIGHT */
 
